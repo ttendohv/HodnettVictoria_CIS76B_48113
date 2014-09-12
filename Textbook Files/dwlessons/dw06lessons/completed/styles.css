@@ -1,0 +1,97 @@
+@charset "UTF-8";
+body {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: small;
+	color: #333;
+	background-color: #739112;
+	text-align: center;
+}
+#container {
+	background-color: #FFF;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	text-align: left;
+	background-image: url(images/container_bg.gif);
+	background-repeat: repeat-y;
+}
+#navigation {
+	background-color: #88b036;
+	height: 36px;
+	width: 100%;
+}
+#main {
+	float: left;
+	width: 550px;
+	margin-left: 20px;
+}
+#sidebar {
+	float: right;
+	width: 360px;
+	background-color: #C8D9BC;
+	border-left-width: 2px;
+	border-left-style: solid;
+	border-left-color: #060;
+}
+#footer {
+	background-color: #ccc;
+	clear: both;
+	height: 1%;
+}
+#navigation ul li {
+	float: left;
+	list-style-type: none;
+}
+#navigation ul li a {
+	color: #FFF;
+	text-decoration: none;
+	padding-top: 8px;
+	padding-right: 15px;
+	padding-bottom: 8px;
+	padding-left: 15px;
+	display: block;
+	white-space: nowrap;
+}
+
+#navigation a:hover {
+	background-color: #9FCC41;
+}
+#header {
+	height:80px;
+	z-index:1;
+	background-color: #9fcc41;
+	background-image: url(images/veggies.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+}
+#header img {
+	margin-top: 20px;
+	margin-left: 15px;
+}
+dl {
+	color: #000;
+	font-size: medium;
+	margin-left: 15px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+}
+dd {
+	font-size: small;
+	margin-bottom: 10px;
+	font-weight: normal;
+	margin-right: 10px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-left: 5px;
+}
+
+#navigation ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}

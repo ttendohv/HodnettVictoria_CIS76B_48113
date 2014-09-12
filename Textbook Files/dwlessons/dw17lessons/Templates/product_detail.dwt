@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../css/styles.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="700" border="0" cellpadding="0" cellspacing="0" class="mainTable">
+  <tr>
+    <td colspan="2" valign="top"><table width="740" border="0" >
+      <tr>
+        <td width="725" bgcolor="#FFFFFF"><img src="../assets/ImageAssets/mcknight.gif" alt="logo" width="424" height="76" /></td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0">
+            <tr>
+              <td width="100" bgcolor="#00CC33" class="topmenu"><div align="center"><a href="../index.html">Home</a></div></td>
+              <td width="100" bgcolor="#CC9933" class="topmenu"><div align="center"><a href="../exhibits.html">Exhibits</a></div></td>
+              <td width="100" bgcolor="#CC9933" class="topmenu"><div align="center">Learning Center</div></td>
+              <td width="100" bgcolor="#CC9933" class="topmenu"><div align="center"><a href="../store.html">Store</a></div></td>
+              <td width="100" bgcolor="#CC9933" class="topmenu"><div align="center">Museum Hours</div></td>
+              <td width="100" bgcolor="#CC9933" class="topmenu"><div align="center">Contact Us</div></td>
+              <td width="100" bgcolor="#CC9933" class="topmenu"><div align="center">Get a Brochure</div></td>
+            </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td width="180" align="left" valign="top"><!-- #BeginLibraryItem "/Library/Main menu.lbi" --><table width="100%" border="0" cellspacing="0" cellpadding="4">
+<tr>
+              <td>Shop For:</td>
+  </tr>
+            <tr>
+              <td bgcolor="#FFCC33"><a href="../category_clothing.html">Clothing</a></td>
+  </tr>
+            <tr>
+              <td bgcolor="#FFCC33"><a href="../category_toys.html">Cool Toys</a></td>
+  </tr>
+            <tr>
+              <td bgcolor="#FFCC33"><a href="../category_books_cds.html">Books &amp; CDs</a></td>
+  </tr>
+            <tr>
+              <td bgcolor="#FFCC33"><a href="../category_dvds.html">DVDs</a></td>
+  </tr>
+            <tr>
+              <td bgcolor="#FFCC33"><a href="../category_giftcertificates.html">Gift Certificates</a></td>
+  </tr>
+          </table><!-- #EndLibraryItem --></td>
+    <td width="500" align="left" valign="top"> <table width="100%" border="0" cellpadding="2">
+        <tr>
+          <td colspan="2">&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left" valign="top" class="header_main"><!-- TemplateBeginEditable name="Product Title" -->
+            <p>Product Title</p>
+          <!-- TemplateEndEditable --></td>
+        </tr>
+        <tr>
+          <td width="50%" align="left" valign="top"><!-- TemplateBeginEditable name="Product image" --><img src="" alt="" name="product_image" width="300" height="300" id="product_image" style="background-color: #FFCC00" /><!-- TemplateEndEditable --></td>
+          <td align="left" valign="top"><!-- TemplateBeginEditable name="Product Info" -->Product Info<!-- TemplateEndEditable --></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">&nbsp;</td>
+    <td align="center" valign="top" class="footer">Questions? Contact MKI <a href="#">Customer Support.</a></td>
+  </tr>
+</table>
+</body>
+</html>

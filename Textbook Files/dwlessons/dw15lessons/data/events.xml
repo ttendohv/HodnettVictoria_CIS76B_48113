@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendar>
+	
+		<event id="3">
+		<date>May 10,2012</date>
+		<title>Pre-Memorial Day Sale</title>
+		<caption>Receive an additional 10-30% off of our already low daily prices.</caption>
+		<time>All Day</time>
+	</event>
+		<event id="4">
+		<date>May 28, 2012</date>
+		<title>Big Memorial Day Sale</title>
+		<caption>Big savings on all of our products before our Fall inventory arrives!</caption>
+		<time>8am-10pm</time>
+	</event>
+		<event id="5">
+		<date>May 31, 2012</date>
+		<title>Big After-Memorial Day Sale</title>
+		<caption>Big savings on all the junk we didn't sell the other day !</caption>
+		<time>8am-10pm</time>
+	</event>
+
+</calendar>

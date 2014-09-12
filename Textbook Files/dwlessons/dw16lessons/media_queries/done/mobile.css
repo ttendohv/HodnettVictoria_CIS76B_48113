@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+@media screen and (orientation:portrait) and (max-width:480px){
+#container {
+	width: 100%;
+}
+header {
+	background-image: none;
+}
+nav {
+	font-size: medium;
+	height: auto;
+}
+nav ul li {
+	float: none;
+}
+#main {
+	float: none;
+	width: auto;
+}
+sidebar {
+	width: auto;
+	float: none;
+	background-color: #ffffff;
+}
+
+
+}

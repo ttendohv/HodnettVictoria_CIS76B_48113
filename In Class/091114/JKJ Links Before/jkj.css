@@ -1,0 +1,103 @@
+/*  Styles for Jean Kalen Jewelry site  */
+
+
+body {
+	background-color: #E8DBAA; 
+	margin: 0; color: #CDC8B4; 
+	font-family: Arial, sans-serif;
+	height: 100%;
+}
+
+#layout {
+	height: 100%;
+}
+
+#top { 
+	background-color: #330000; 
+	text-align: center;
+}
+
+
+#nav { 
+	width: 150px; 
+	height: 100%; 
+	text-align: center; 
+	font-size: .8em; 
+	font-weight: bold;
+	background-color: #330000; 
+}
+
+#main { 
+	color: #330000; 
+	padding: 0px 20px 0px 35px;
+}
+
+#littlelogo { 
+	margin: 20px 0; 
+}
+
+.initial { 
+	font-size: 140%; 
+}
+h2 { 
+	margin-top: 35px; 
+}
+h2, h3 {
+	font-family: Garamond, "Book Antiqua", Georgia, serif; 
+}
+
+
+
+/* ------- Basic page links -------- */
+
+a:link { 
+	color: #990000; 
+	text-decoration: underline;
+}
+a:visited { 
+	color: #660033; 
+	text-decoration: underline;
+}
+a:hover { 
+	color: #CC0000; 
+	text-decoration: none;
+}
+a:active { 
+	color: #FF00CC; 
+	text-decoration: none;
+}
+
+/* ---------- Navigation sidebar links --------- */
+
+.thispage {
+	color: white;
+	background-color: #570000;
+	padding: .2em 0;
+
+}
+
+#nav a { 
+	text-decoration: none;
+	display: block;
+	padding: .2em 0;
+
+}
+#nav p { 
+	margin: 0;
+}
+#nav a:link, #nav a:visited { 
+	color: #E8DBAA;
+	background-color: #330000;
+}
+#nav a:hover, #nav a:active { 
+	color: #FFF8D8;
+	background-color: #780000;
+
+}
+
+.inlinephoto {
+	float: right;
+	border: 2px solid #B7A14F;
+	margin-left: 20px;
+	margin-bottom: 7px;
+}
